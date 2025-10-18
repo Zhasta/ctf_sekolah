@@ -12,7 +12,7 @@ kitapun mencoba untuk melihat spectrogram dari file audio itu menggunakan Tool/S
 
 ![flag](assets/flag.png)
 
-#### **FLAG :W92{51mPl3_st3gan0gRaPhy_us1Ng_sp3ctrum!!8365840}**
+#### **FLAG : W92{51mPl3_st3gan0gRaPhy_us1Ng_sp3ctrum!!8365840}**
 
 
 
